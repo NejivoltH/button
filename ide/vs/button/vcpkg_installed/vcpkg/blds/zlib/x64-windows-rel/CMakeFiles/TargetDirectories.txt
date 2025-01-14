@@ -1,0 +1,7 @@
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/zlib.dir
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/test.dir
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/install.dir
+C:/Users/loicb/Desktop/button/button/ide/vs/button/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/install/local.dir
